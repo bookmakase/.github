@@ -46,7 +46,7 @@
 
 ## 🏛 서비스 아키텍처
 
-<img width="1920" height="1080" alt="서비스 아키텍처" src="https://github.com/user-attachments/assets/55ea7798-7e4d-4045-826e-ab64a2e2a1ad" />
+<img width="1920" height="1080" alt="서비스 아키텍처" src="https://github.com/user-attachments/assets/c64d3bd8-93f0-4843-a73a-1a840afcd8be" />
 
 ---
 
@@ -124,9 +124,3 @@
     <td align="center"><a href="https://github.com/sandy-castle"><b>성다은</b></a><br>FRONT-END</td>
   </tr>
 </table>
-
----
-
-## 📜 라이선스
-
-이 프로젝트의 라이선스는 팀 내부 논의 후 추가될 예정입니다.
