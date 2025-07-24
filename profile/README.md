@@ -46,7 +46,7 @@
 
 ## 🏛 서비스 아키텍처
 
-<img width="1920" height="1080" alt="북마카세 아키텍처" src="https://github.com/user-attachments/assets/e9fa092a-aaca-4788-b833-93e7cf746098" />
+<img width="1920" height="1080" alt="서비스 아키텍처" src="https://github.com/user-attachments/assets/55ea7798-7e4d-4045-826e-ab64a2e2a1ad" />
 
 ---
 
