@@ -46,9 +46,10 @@
 
 ## 🏛 서비스 아키텍처
 
-<img width="1920" height="1080" alt="서비스 아키텍처" src="https://github.com/user-attachments/assets/c64d3bd8-93f0-4843-a73a-1a840afcd8be" />
+<img width="1920" height="1080" alt="서비스 아키텍처" src="https://github.com/user-attachments/assets/a3544cf4-4b14-421b-bb02-bb59e773b82d" />
 
 ---
+
 
 ## 🏛 명세서
 
